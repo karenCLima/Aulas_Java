@@ -1,0 +1,9 @@
+
+public enum TipoConta {
+	
+	CONTA_SALARIO,
+	CONTA_POUPANCA,
+	CONTA_ESTUDANTE,
+	CONTA_KIDS,
+	CONTA_CORRENTE
+}
