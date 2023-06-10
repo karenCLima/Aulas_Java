@@ -1,5 +1,5 @@
 # Códigos com minhas aulas de Java
-#### Minhas Aulas de Java do Projeto da Alfamídia com a EuCurso. 
+#### Minhas Aulas de Java do Projeto da +PraTi com a EuCurso. 
 ##### A seguir tem o detalhamento do conteúdo de cada pasta:
 * Aula01: Tipos primitivos, Tipos Wrappers, Diferença entre uma 
 variável vaiza e uma nula.
@@ -24,6 +24,9 @@ Date, LocalDate, LocalDateTime e DateTimeFormatter.
 Coringa (wildcard), Reflection, Singleton, Arquitetura de Projetos
 em Camadas: Camada Model, Camada Service, Camada Repository, Camada
 Utils.
+* Aula09 e 10: Servidor local, Introdução a Banco de dados, Instalação do XAMPP, 
+manipulação do banco de dados MySQL/MariaDB, Linguagem SQL.
+* Aula 11 e 12: Conexão Java com banco de dados MySQL, Importar Jar, JDBC, PreparedStatement, executeUpdate, executeQuery
 * Sem1Exerc2:
   * Criar uma classe Jogador que tenha as propriedades nome, gols, 
   assistências.
